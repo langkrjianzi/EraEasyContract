@@ -21,7 +21,7 @@ module.exports = {
       url: "https://mainnet.era.zksync.io",
       ethNetwork: "mainnet", // Can also be the RPC URL of the network (e.g. `https://goerli.infura.io/v3/<API_KEY>`)
       zksync: true,
-      verifyURL: 'https://zksync2-testnet-explorer.zksync.dev/contract_verification'
+      verifyURL: 'verifyURL: 'https://zksync2-mainnet-explorer.zksync.io/contract_verification'
 
     },
   },
